@@ -2,4 +2,4 @@
 Oito projetos de estudo para aplicar os conhecimentos em T-SQL. O conteúdo foi abordado no curso [8 Projetos de SQL para Cientista de Dados](https://www.sympla.com.br/8-projetos-de-sql-para-cientista-de-dados__1256630) do Fabrício Giordanelli ([@fabricio.giordanelli](https://www.instagram.com/fabricio.giordanelli/)). No curso o SGDB utilizado foi MySQL, por questão de treino, optei por usar o SQL Server 2019. 
 
 # Lista de Projetos
-1. [Funções básicas de agregação, filtro e união](https://github.com/lucianaaguiarc/Projetos-ML-em-Python/blob/main/Projeto%201.ipynb)
+1. [Funções básicas de agregação, filtro e união](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto1_SQL.sql)
