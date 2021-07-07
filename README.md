@@ -3,4 +3,4 @@ Oito projetos de estudo para aplicar os conhecimentos em T-SQL. O conteúdo foi 
 
 # Lista de Projetos
 1. [Funções básicas de agregação, filtro e junção](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto1_SQL.sql)
-2. [JOINs e CTE](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto1_SQL.sql)
+2. [JOINs e CTE](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto2_SQL.sql)
