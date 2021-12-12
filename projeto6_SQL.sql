@@ -110,7 +110,7 @@ GROUP BY FK_armazem, capacidade
 HAVING COUNT(codCaixa) > A.capacidade
 
 -------------------------------------
--------Treino coluna cauculada-------
+-------Treino coluna calculada-------
 -------------------------------------
 
 --1. Crie uma nova coluna com o nome de ‘Saturacao’. Se a quantidade de Caixas for superior a capacidade que o armazem possui, essa nova coluna terá o valor de “Saturado”, senão terá o valor de “Não Saturado”.
