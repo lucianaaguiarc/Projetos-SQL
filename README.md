@@ -8,6 +8,7 @@ Oito projetos de estudo para aplicar os conhecimentos em T-SQL. O conteúdo foi 
 4. [GROUP BY, CONSTRAINTS e colunas calculadas](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto4_SQL.sql)
 5. [DISTINCT, COUNT, JOIN](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto5_SQL.sql)
 6. [HAVING, JOIN, CASE/THEN](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto6_SQL.sql)
+7. [HAVING, JOIN, CASE/THEN](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto7_SQL.sql)
 
 
 # Imagem que salva empregos!!!
