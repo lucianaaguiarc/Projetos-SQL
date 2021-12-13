@@ -9,6 +9,7 @@ Oito projetos de estudo para aplicar os conhecimentos em T-SQL. O conteúdo foi 
 5. [DISTINCT, COUNT, JOIN](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto5_SQL.sql)
 6. [HAVING, JOIN, CASE/THEN](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto6_SQL.sql)
 7. [HAVING, JOIN, CASE/THEN](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto7_SQL.sql)
+8. [CASE](https://github.com/lucianaaguiarc/Projetos-SQL/blob/main/projeto8_SQL.sql)
 
 
 # Imagem que salva empregos!!!
